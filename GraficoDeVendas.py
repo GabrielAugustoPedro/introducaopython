@@ -12,7 +12,7 @@ vendas2 = [2, 3, 4, 6, 3]
 plt.plot(meses, vendas, color="g", linestyle="--", marker="o" )
 plt.plot(meses, vendas, color="r", linestyle="-", marker="x" )
 
-
+#Dados do grafico
 plt.title("evolução das vendas")
 plt.xlabel("Meses")
 plt.ylabel("Vendas")
